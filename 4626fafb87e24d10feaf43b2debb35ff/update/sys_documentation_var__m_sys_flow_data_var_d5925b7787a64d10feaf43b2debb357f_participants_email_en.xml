@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="participants_email" label="Participants Email" language="en" table="var__m_sys_flow_data_var_d5925b7787a64d10feaf43b2debb357f">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>participants_email</element>
+            <help/>
+            <hint/>
+            <label>Participants Email</label>
+            <language>en</language>
+            <name>var__m_sys_flow_data_var_d5925b7787a64d10feaf43b2debb357f</name>
+            <plural>Participants Email</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>haritha.ambati@snc</sys_created_by>
+            <sys_created_on>2022-04-06 09:19:54</sys_created_on>
+            <sys_id>9b23d7b787a64d10feaf43b2debb3542</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Participants Email</sys_name>
+            <sys_package display_value="sign" source="x_snc_sign">4626fafb87e24d10feaf43b2debb35ff</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="sign">4626fafb87e24d10feaf43b2debb35ff</sys_scope>
+            <sys_update_name>sys_documentation_var__m_sys_flow_data_var_d5925b7787a64d10feaf43b2debb357f_participants_email_en</sys_update_name>
+            <sys_updated_by>haritha.ambati@snc</sys_updated_by>
+            <sys_updated_on>2022-04-06 09:19:54</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

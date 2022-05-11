@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="email_body" label="Email Body" language="en" table="var__m_sys_flow_data_var_7e46323f87e24d10feaf43b2debb3583">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>email_body</element>
+            <help/>
+            <hint/>
+            <label>Email Body</label>
+            <language>en</language>
+            <name>var__m_sys_flow_data_var_7e46323f87e24d10feaf43b2debb3583</name>
+            <plural>Email Body</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>haritha.ambati@snc</sys_created_by>
+            <sys_created_on>2022-04-06 07:16:17</sys_created_on>
+            <sys_id>6ce63e3f87e24d10feaf43b2debb353c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Email Body</sys_name>
+            <sys_package display_value="sign" source="x_snc_sign">4626fafb87e24d10feaf43b2debb35ff</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="sign">4626fafb87e24d10feaf43b2debb35ff</sys_scope>
+            <sys_update_name>sys_documentation_var__m_sys_flow_data_var_7e46323f87e24d10feaf43b2debb3583_email_body_en</sys_update_name>
+            <sys_updated_by>haritha.ambati@snc</sys_updated_by>
+            <sys_updated_on>2022-04-06 07:16:17</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

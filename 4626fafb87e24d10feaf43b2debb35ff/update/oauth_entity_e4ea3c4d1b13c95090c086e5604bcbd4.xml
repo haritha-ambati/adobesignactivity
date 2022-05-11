@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="oauth_entity">
+    <oauth_entity action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <access_token_lifespan>1800</access_token_lifespan>
+        <active>true</active>
+        <auth_code_lifespan>60</auth_code_lifespan>
+        <auth_url>https://login.microsoftonline.com/a46df9b7-2c9b-49d5-8c9f-d1b3de4ba59f/oauth2/v2.0/authorize</auth_url>
+        <certificate_url/>
+        <client_id>71b603b9-1bbd-41a3-904b-11b3b7594fec</client_id>
+        <client_secret>﷞﷟﷒6bce37ca875a0110fe0d8489cebb3568﷬﷔1﷬﷭lqWzRUYyB6HqVESwtDBk5Q==bfiUpRlnP4g8iYgsWZSnS2R49wMxQhIWBjo0Wk-hnMO6SW8p3-R6QEM8BIdeJ8pJ8EOiejs=﷮﷯</client_secret>
+        <client_uuid>28ea3c4d1b13c95090c086e5604bcbd4</client_uuid>
+        <code_challenge_method>S256</code_challenge_method>
+        <comments/>
+        <default_grant_type>authorization_code</default_grant_type>
+        <id_token_lifespan>86400</id_token_lifespan>
+        <logo_url/>
+        <message_signature_lifespan>60</message_signature_lifespan>
+        <name>Microsoft Teams Graph Authorization Code.1</name>
+        <oauth_api_script display_value="OAuthUtil">3e3a3a11c333210016194ffe5bba8f70</oauth_api_script>
+        <protocol_name/>
+        <public_client>false</public_client>
+        <redirect_url>https://integrationhubdev.service-now.com/oauth_redirect.do</redirect_url>
+        <refresh_token_lifespan>8640000</refresh_token_lifespan>
+        <refresh_token_url>https://login.microsoftonline.com/a46df9b7-2c9b-49d5-8c9f-d1b3de4ba59f/oauth2/v2.0/token</refresh_token_url>
+        <restricted_binding>false</restricted_binding>
+        <revoke_token_url/>
+        <salt/>
+        <send_client_credentials_as>request_body_parameter</send_client_credentials_as>
+        <skip_authorize>false</skip_authorize>
+        <sys_class_name>oauth_entity</sys_class_name>
+        <sys_created_by>haritha.ambati@snc</sys_created_by>
+        <sys_created_on>2022-05-04 15:58:19</sys_created_on>
+        <sys_id>e4ea3c4d1b13c95090c086e5604bcbd4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Microsoft Teams Graph Authorization Code.1</sys_name>
+        <sys_package display_value="sign" source="x_snc_sign">4626fafb87e24d10feaf43b2debb35ff</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="sign">4626fafb87e24d10feaf43b2debb35ff</sys_scope>
+        <sys_update_name>oauth_entity_e4ea3c4d1b13c95090c086e5604bcbd4</sys_update_name>
+        <sys_updated_by>haritha.ambati@snc</sys_updated_by>
+        <sys_updated_on>2022-05-04 15:58:19</sys_updated_on>
+        <token_url>https://login.microsoftonline.com/a46df9b7-2c9b-49d5-8c9f-d1b3de4ba59f/oauth2/v2.0/token</token_url>
+        <type>oauth_provider</type>
+        <use_mutual_auth>false</use_mutual_auth>
+        <user/>
+    </oauth_entity>
+</record_update>

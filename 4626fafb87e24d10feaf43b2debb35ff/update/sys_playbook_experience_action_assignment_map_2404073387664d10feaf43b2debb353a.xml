@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_playbook_experience_action_assignment_map">
+    <sys_playbook_experience_action_assignment_map action="INSERT_OR_UPDATE">
+        <activity_definition display_value="Obtain Adobe eSignature">87b24b7f87264d10feaf43b2debb355f</activity_definition>
+        <declarative_action_assignment display_value="RequestSignature">82803d1f87138590feaf43b2debb35f1</declarative_action_assignment>
+        <playbook_experience display_value="Global Playbook Experience">98e09a560f2200102920c912d4767e1a</playbook_experience>
+        <sys_class_name>sys_playbook_experience_action_assignment_map</sys_class_name>
+        <sys_created_by>haritha.ambati@snc</sys_created_by>
+        <sys_created_on>2022-04-06 08:13:49</sys_created_on>
+        <sys_id>2404073387664d10feaf43b2debb353a</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="sign" source="x_snc_sign">4626fafb87e24d10feaf43b2debb35ff</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="sign">4626fafb87e24d10feaf43b2debb35ff</sys_scope>
+        <sys_update_name>sys_playbook_experience_action_assignment_map_2404073387664d10feaf43b2debb353a</sys_update_name>
+        <sys_updated_by>haritha.ambati@snc</sys_updated_by>
+        <sys_updated_on>2022-05-11 19:43:13</sys_updated_on>
+    </sys_playbook_experience_action_assignment_map>
+</record_update>
